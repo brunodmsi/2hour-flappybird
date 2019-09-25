@@ -1,3 +1,5 @@
-# 2hour-flappybird
-Flappy Bird made in 2 hours
-Use Netbeans to open it
+# Flappy Bird (made in 2 hours)  
+To run from the terminal, run the command:
+```
+java -jar "FlappyBird.jar" 
+```
